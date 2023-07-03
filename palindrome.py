@@ -1,4 +1,4 @@
-num=int(input("enter ur number: "))
+num=int(input("plz enter the number: "))
 temp=num
 rev=0
 while num>=1:
